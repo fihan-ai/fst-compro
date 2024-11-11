@@ -1,0 +1,14 @@
+.visimisi {
+    margin-top: 80px;
+    text-align: center;
+}
+.horizontalborder {
+    align-self: center;
+    width: 300px;
+    position: relative;
+    border-top: 5px solid #FFC50B;
+    margin: 0 auto;
+}
+.paragraf{
+    margin-top: 10px;
+}
